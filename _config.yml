@@ -7,13 +7,13 @@ version: 2
 
 # Personal info
 name: Hugh Hutchinson
-title: High School Senior (Unemployed)
-email: Hugh4School@gmail.com (optional)
+title: High School Senior
+email: Hugh4School@gmail.com
 # email_title: Email (Email title override)
-phone: 7548016218 (optional)
+phone: 7548016218
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://bluemooncoderatmidnight.github.io/
+# website_title: Resume Website
 
 # Dark Mode (true/false/never)
 darkmode: false
