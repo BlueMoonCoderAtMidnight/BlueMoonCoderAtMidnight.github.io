@@ -49,7 +49,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me 
 about_profile_image: https://ibb.co/1mZYWZM
 about_content: | # this will include new lines to allow paragraphs
     Hi! I'm Hugh and i'm a High School Senior who codes once in a Blue Moon, Just for fun. I do one day hope to use this for a career in social media influence, or game development
